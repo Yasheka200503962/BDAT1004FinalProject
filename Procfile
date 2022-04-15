@@ -1,1 +1,1 @@
-web: gunicorn app:FinalProject
+web: gunicorn app: FinalProject
